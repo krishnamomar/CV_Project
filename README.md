@@ -1,1 +1,17 @@
 # CV_Project
+
+![Page 1](https://github.com/krishnamomar/CV_Project/blob/main/images/1.png)
+![Page 2](https://github.com/krishnamomar/CV_Project/blob/main/images/2.png)
+![Page 3](https://github.com/krishnamomar/CV_Project/blob/main/images/3.png)
+![Page 4](https://github.com/krishnamomar/CV_Project/blob/main/images/4.png)
+![Page 5](https://github.com/krishnamomar/CV_Project/blob/main/images/5.png)
+![Page 6](https://github.com/krishnamomar/CV_Project/blob/main/images/6.png)
+![Page 7](https://github.com/krishnamomar/CV_Project/blob/main/images/7.png)
+![Page 8](https://github.com/krishnamomar/CV_Project/blob/main/images/8.png)
+![Page 9](https://github.com/krishnamomar/CV_Project/blob/main/images/9.png)
+![Page 10](https://github.com/krishnamomar/CV_Project/blob/main/images/10.png)
+![Page 11](https://github.com/krishnamomar/CV_Project/blob/main/images/1.1png)
+![Page 12](https://github.com/krishnamomar/CV_Project/blob/main/images/1.p2ng)
+![Page 13](https://github.com/krishnamomar/CV_Project/blob/main/images/1.pn3g)
+![Page 14](https://github.com/krishnamomar/CV_Project/blob/main/images/1.png4)
+![Page 15](https://github.com/krishnamomar/CV_Project/blob/main/images/1.png5)
